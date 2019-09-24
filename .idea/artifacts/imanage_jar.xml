@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="imanage:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/imanage_jar</output-path>
+    <root id="archive" name="imanage.jar">
+      <element id="module-output" name="imanage" />
+    </root>
+  </artifact>
+</component>
